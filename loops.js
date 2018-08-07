@@ -18,7 +18,7 @@ function whileLoop(number){
 }
 
 function maybeTrue() {
-  return Math.random() >= 0
+  return Math.random() <= 1
 }
 
 function doWhileLoop(array){
